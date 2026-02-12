@@ -145,6 +145,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 115. [A Realistic Evaluation of Cross-Frequency Transfer Learning and Foundation Forecasting Models](https://arxiv.org/abs/2509.19465) paper showing foundational models systematically underpeform ARIMA and simple stats ensemble 🔥🔥🔥🔥🔥
 116. [XLinear: A Lightweight and Accurate MLP-Based Model for Long-Term Time Series Forecasting with Exogenous Inputs](https://arxiv.org/abs/2601.09237)
 117. [Position: The Inevitable End of One-Architecture-Fits-All-Domains in Time Series Forecasting](https://arxiv.org/abs/2602.01736)
+118. [Assessing Electricity Demand Forecasting with Exogenous Data in Time Series Foundation Models](https://arxiv.org/abs/2602.05390)
 
 
 
